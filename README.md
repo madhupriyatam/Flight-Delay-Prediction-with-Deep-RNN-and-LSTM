@@ -12,10 +12,9 @@ Data used in this project is from Bureau of transports statistics (http://www.tr
 Our work includes implementation of RNN architecture via LSTM cells, backpropagating through time, using stochastic 
 Gradient Descent(SGD) as the optimizer and training the model with suitable randomized weight techniques. (From Scratch. Without using tensorflow or keras)
 
---------------------------------------Dependencies-------------------------------------------------------------------
-Numpy, python 3.7.0
+Dependencies: Numpy, python 3.7.0
 
---------------------------------------STEPS TO RUN THE PROJECT-------------------------------------------------------
+STEPS TO RUN THE PROJECT: 
 1. Unzip the zip file. 
 2. Make the neural_network folder as the working directory.  
 3. Run test.py file : python test.py  
